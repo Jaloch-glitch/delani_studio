@@ -64,3 +64,6 @@ html {
     margin-bottom: 2%;
     margin-left: 15%;
 }
+.dsgn-hidden {
+    display: none;
+}
