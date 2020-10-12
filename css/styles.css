@@ -84,6 +84,12 @@ html {
     margin-top: 5%;
     background-position: center;
 }
+.seca4 {
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
 #cont {
     text-align: center;
     color: white;
