@@ -84,3 +84,9 @@ html {
     margin-top: 5%;
     background-position: center;
 }
+#cont {
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+    font-style: italic;
+}
