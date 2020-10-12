@@ -1,3 +1,9 @@
 html {
-    overflow-x: scroll;
+    overflow-x: hidden;
 }
+.seca1 {
+    background-image: url(../images/backgrounds/h_img.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    margin-bottom: 2%;
