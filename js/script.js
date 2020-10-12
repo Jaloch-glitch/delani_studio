@@ -7,3 +7,7 @@ $(document).ready(()=> {
         $(".dvt-hidden").toggle();
         $(".dvt-showing").toggle();
     });
+    $(".click3").click(()=> {
+        $(".mmgt-hidden").toggle();
+        $(".mmgt-showing").toggle();
+    });
