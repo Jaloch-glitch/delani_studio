@@ -11,3 +11,10 @@ $(document).ready(()=> {
         $(".mmgt-hidden").toggle();
         $(".mmgt-showing").toggle();
     });
+    $(".buttonsend").click(()=>{
+        const user = document.getElementById('name').value;
+        alert("Hello there " + user + " your message has been received.");
+        return false;
+        
+    });
+});
