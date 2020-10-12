@@ -96,3 +96,18 @@ html {
     margin-bottom: 5%;
     background-color: transparent;
 }
+::placeholder {
+    color: white;
+}
+
+.malii {
+    margin-left: 40%;
+}
+
+#name {
+    background-color: transparent;
+}
+
+#mail {
+    background-color: transparent;
+}
